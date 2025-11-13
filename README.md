@@ -1,3 +1,10 @@
+DIAGRAMAS DE ACTIVIDADES-MODELADOS DE PROCESOS Y FLUJOS
+
+Nombre: Valentina Rozzo - Daniela Triana 
+Materia: Modelos y documentación de software 
+Docente: Hely Suárez 
+
+
 1. Visión general del proceso
 
 El proceso seleccionado para este ejercicio práctico corresponde a la **inscripción en cursos intersemestrales de la FESC**.
