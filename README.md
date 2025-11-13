@@ -1,8 +1,8 @@
 DIAGRAMAS DE ACTIVIDADES-MODELADOS DE PROCESOS Y FLUJOS
 
-Nombre: Valentina Rozzo - Daniela Triana 
-Materia: Modelos y documentación de software 
-Docente: Hely Suárez 
+# Nombre: Valentina Rozzo - Daniela Triana 
+# Materia: Modelos y documentación de software 
+# Docente: Hely Suárez 
 
 
 1. Visión general del proceso
